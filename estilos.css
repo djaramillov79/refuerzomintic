@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    text-align: center;
+}
+footer{
+    font-size: small;
+}
+
+[id=irA_registro_usuario]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
